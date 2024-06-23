@@ -3,28 +3,202 @@
 @import url("https://nyri4.github.io/Discolored/main.css");
 @import url("https://xcruxiex.github.io/themes/core/hljs.css");
 
-:root {
-    --bgColor1: #1e2731;
-    --bgColor2: #12171d;
-    --mainColor: #2275c9;
-    --gradientColor01: #00f260;
-    --gradientColor02: #0575e6;
-    --backgroundCode: #1e2731;
-    --backgroundName: rgba(0, 0, 0, 0.2);
-    --rs-small-spacing: 2px;
-    --rs-medium-spacing: 3px;
-    --rs-large-spacing: 4px;
-    --rs-small-width: 2px;
-    --rs-medium-width: 3px;
-    --rs-large-width: 4px;
-    --rs-width: 2px;
-    --rs-avatar-shape: 50%;
-    --rs-online-color: #43b581;
-    --rs-idle-color: #faa61a;
-    --rs-dnd-color: #f04747;
-    --rs-offline-color: #636b75;
-    --rs-streaming-color: #643da7;
-    --rs-invisible-color: #747f8d;
-    --rs-phone-visible: block;
-    --rs-phone-color: var(--rs-online-color);
+/*channel names */
+.name_d8bfb3{
+    color: #fff;
+}
+.modeMuted_d8bfb3 .icon_d8bfb3{
+    color: var(--mainColor);
+}
+.wrapper_d8bfb3:active .link_d8bfb3{
+    background-color: var(--bgColor1);
+}
+/*Settings text*/
+.themed_a0.item_a0, .brand_a0.item_a0{
+    color: #fff;
+}
+/*BD settings header*/
+.bd-sidebar-header h2{
+    color: var(--mainColor);
+}
+/*Dms name colors*/
+.nameAndDecorators_f9647d, .subText_f9647d{
+    color: #fff;
+}
+/*moon home button*/
+#app-mount .childWrapper_f90abb {
+    background-color: var(--bgColor1) !important
+}
+#app-mount .presets_df4d02>.appIconSelectionContainer_e2863f:first-child img,
+#app-mount .tutorialContainer_f9623d .childWrapper_f90abb>svg {
+    display: none !important;
+}
+#app-mount .presets_df4d02>.appIconSelectionContainer_e2863f:first-child>.appIconSelection_e2863f,
+#app-mount .tutorialContainer_f9623d .childWrapper_f90abb:has(svg)::after {
+    position: absolute;
+    content: "";
+    width: 36px;
+    height: 36px;
+    top: 6px;
+    left: 6px;
+    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02));
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    -webkit-mask-box-image: url("https://i.imgur.com/6gPQfIO.png");
+}
+/*members list icon staying maincolor*/
+.selected_e44302 .icon_e44302{
+    color: var(--mainColor);
+}
+/*inbox*/
+.header_f0cd33.expanded_f0cd33{
+    background-color: var(--bgColor1);
+}
+.topPill_a0 .themed_a0.selected_a0.item_a0, .side_a0 .themed_a0.selected_a0.item_a0{
+    background-color: var(--bgColor2);
+}
+.container_b0914a,.container_b95f0d,.container_f1c3d9,.container_f8a938{
+    background-color: var(--bgColor1);
+}
+.topPill_a0 .themed_a0.item_a0:hover:not(.disabled_a0), .side_a0 .themed_a0.item_a0:hover:not(.disabled_a0){
+    background-color: var(--bgColor1);
+}
+.friendRequestsButton_c0c071,.secondary_e258f5{
+    background-color: var(--bgColor1) !important;
+}
+/*bd editor titlebar*/
+.floating-window-titlebar,.floating-window #bd-editor-controls{
+    background-color: #000;
+}
+/*tooltips*/
+.tooltipPrimary_b6c360 {
+	background: var(--bgColor1);
+}
+/*gif place*/
+.contentWrapper_af5dbb,.header_b56bbc,.wrapper_e06857,.inspector_c3120f,.wrapper_ba23fe{
+    background-color: var(--bgColor1);
+}
+.inner_c18ec9,.navButtonActive_af5dbb,.container_effbe2,.categoryItemDefaultCategorySelected_dfa278, .categoryItemDefaultCategorySelected_dfa278:hover{
+    background-color: var(--bgColor2);
+}
+.upsellContainer_a3bc57{
+    background: var(--bgColor2);
+}
+.theme-dark .categoryFade_af1167, .theme-light .categoryFade_af1167{
+    background: #2275c950;
+}
+/*pins*/
+.messagesPopoutWrap_ac90a2,.header_ac90a2{
+    background-color: var(--bgColor2) !important;
+}
+.messageGroupWrapper_ac90a2{
+    background: var(--bgColor1);
+}
+/*my account tab*/
+.accountProfileCard_b69b77,.background_b69b77,.fieldList_b69b77{
+    background-color: var(--bgColor1);
+}
+/*settings stuff, whole lotta it cus I cba*/
+.itemFilled_eb92a8:hover:not([aria-checked=true]):not(.disabled_eb92a8){
+    background-color: var(--bgColor2);
+}
+.connection_e2a436,.connectionHeader_e2a436,.metadataContainer_e2a436{
+    background-color: var(--bgColor1);
+}
+.bd-addon-list .bd-addon-header,.bd-description-wrap,.bd-addon-list .bd-footer{
+    background-color: var(--bgColor1);
+}
+/*search thing*/
+.button_ddc613,
+.channelName-3w2Y3c,
+.searchHeader_b7c924,
+.searchResultsWrap_c2b47d {
+    background-color: var(--bgColor2) !important
+}
+.searchResult_ddc613,
+.tab_e864e6.selected-2LAck8 {
+    background-color: var(--bgColor2) !important
+}
+.option_b0286e:hover{
+    background-color: var(--bgColor1) !important
+}
+.resultsGroup_b0286e{
+    background-color: var(--bgColor2) !important
+}
+/*friends thing*/
+.root_f9a4c9{
+    background-color: var(--bgColor2);
+}
+.theme-dark .friendSelected_ebf869{
+    background-color: var(--bgColor1);
+}
+.input_f8bc55{
+    background-color: var(--bgColor1);
+}
+/*right click settings on servers*/
+.menu_d90b3d{
+    background-color: var(--bgColor1);
+}
+.colorDefault_d90b3d.focused_d90b3d{
+    background-color: var(--mainColor);
+}
+/*members list*/
+.container_e9f61e,.activityText_a31c43{
+    color: #fff;
+}
+/*unread pill*/
+.item_fd07a3{
+    background-color: var(--mainColor);
+}
+/*unread thingy*/
+#app-mount .unread_d8bfb3 {
+    height: 8px;
+    width: 8px;
+    border-radius: 4px;
+    left: 4px;
+    -webkit-transition: box-shadow .2s ease;
+    -ms-transition: box-shadow .2s ease;
+    -o-transition: box-shadow .2s ease;
+    -moz-transition: box-shadow .2s ease;
+    transition: box-shadow .2s ease;
+    background-color: #ffffff00;
+    z-index: 10;
+    position: absolute
+}
+#app-mount .unread_d8bfb3:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -5px;
+    width: 100%;
+    height: 100%;
+    background-color: var(--mainColor);
+    border-radius: 100%;
+    z-index: -2;
+    animation: pulse 2s infinite;
+    will-change: transform
+}
+
+#app-mount .unread_d8bfb3:hover:after {
+    animation: none
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+        opacity: 1
+    }
+
+    100% {
+        transform: scale(2);
+        opacity: 0
+    }
+}
+.modeSelected_d8bfb3:hover .name_d8bfb3, .modeConnected_d8bfb3 .name_d8bfb3, .modeConnected_d8bfb3:hover .name_d8bfb3, .modeUnreadImportant_d8bfb3 .name_d8bfb3, .modeUnreadImportant_d8bfb3:hover .name_d8bfb3{
+    color: var(--mainColor);
+}
+/*threads*/
+.container_e664f3,.header_e664f3{
+    background-color: var(--bgColor1);
 }

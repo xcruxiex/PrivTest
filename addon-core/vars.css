@@ -1,0 +1,13 @@
+root:{
+  --background-primary: var(--bgColor2);
+  --background-secondary: var(--bgColor2) !important;
+  --background-tertiary: var(--bgColor2);
+  --bg-overlay-3: var(--bgColor2);
+  --bg-overlay-1: var(--bgColor2);
+  --bg-overlay-selected: var(--bgColor1);
+  --background-secondary-alt: var(--bgColor2);
+  --bg-overlay-hover: var(--bgColor1);
+  --background-modifier-selected: var(--bgColor1);
+  --channels-default: #2275c9;
+  --interactive-normal: #2275c9;
+}

@@ -4,8 +4,8 @@
 @import url("https://xcruxiex.github.io/themes/core/hljs.css");
 
 :root {
-    --backgroundColor01: #1e2731;
-    --backgroundColor02: #12171d;
+    --bgColor1: #1e2731;
+    --bgColor2: #12171d;
     --mainColor: #2275c9;
     --gradientColor01: #00f260;
     --gradientColor02: #0575e6;
@@ -68,12 +68,12 @@
 #app-mount .videoWrapper_ba4b17,
 #app-mount .wrapper_fea3ef,
 #app-mount .wrapper_d880dc {
-    background: var(--backgroundColor02) !important
+    background: var(--bgColor2) !important
 }
 
 #app-mount .editor_bcfa1e,
 #app-mount .themeEditor_c9dda6 {
-    border-color: var(--backgroundColor02)
+    border-color: var(--bgColor2)
 }
 
 #app-mount .titleBar_a934d8 {
@@ -86,7 +86,7 @@
 #app-mount .editor_bcfa1e .footerButton_bcfa1e,
 #app-mount .themeEditor_c9dda6 .footerButton_c9dda6,
 #app-mount .wrapper_ef319f {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .emptyIconFriends_e4be58,
@@ -151,7 +151,7 @@
 }
 
 #app-mount .closeButton_df5532:hover>svg {
-    color: var(--backgroundColor02);
+    color: var(--bgColor2);
 }
 
 #app-mount .keybindShortcut-3zF1P9 span {
@@ -162,21 +162,21 @@
 }
 
 #app-mount .colorable_ef18ee.primaryDark_ef18ee {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .button_f67531.enabled_f67531:hover {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .button_ef319f:hover {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .modeSelected_d8bfb3 .link_d8bfb3,
 #app-mount .modeSelected_d8bfb3:hover .link_d8bfb3,
 #app-mount .wrapper_d8bfb3:hover .link_d8bfb3 {
-    background-color: var(--backgroundColor01)
+    background-color: var(--bgColor1)
 }
 
 #app-mount .link_d8bfb3 {
@@ -219,15 +219,15 @@
 }
 
 #app-mount .wrapper_a5bc92 .users_a5bc92 {
-    background-color: var(--backgroundColor01)
+    background-color: var(--bgColor1)
 }
 
 #app-mount .wrapper_a5bc92 .total_a5bc92 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .wrapper_a5bc92 .total_a5bc92:after {
-    border-right-color: var(--backgroundColor01) !important
+    border-right-color: var(--bgColor1) !important
 }
 
 #app-mount .unread_d8bfb3 {
@@ -280,7 +280,7 @@
 }
 
 #app-mount .jumpToPresentBar_cf58b5 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     box-shadow: inset 0 0 0 100px rgba(0, 0, 0, .15)
 }
 
@@ -290,7 +290,7 @@
 }
 
 #bd-editor-controls {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     border-radius: 8px 8px 0 0
 }
 
@@ -310,7 +310,7 @@
 }
 
 #bd-editor-controls button:hover {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 .controls-section .checkbox-inner {
@@ -359,15 +359,15 @@
 #app-mount .searchBar_f0963d .searchBarComponent_f0963d,
 #app-mount .searchBar-zdmu7v,
 #app-mount .threadSuggestionBar_b11c5e {
-    background: var(--backgroundColor01) !important
+    background: var(--bgColor1) !important
 }
 
 #app-mount .divider_fc5f50:not(.isUnread_fc5f50) {
-    border-color: var(--backgroundColor01) !important
+    border-color: var(--bgColor1) !important
 }
 
 #app-mount .content_fc5f50 {
-    background: var(--backgroundColor01) !important
+    background: var(--bgColor1) !important
 }
 
 #app-mount .attachment_a4623d,
@@ -381,16 +381,16 @@
 #app-mount .selected_c9d951:hover,
 #app-mount .wrapper_b9fe76,
 #app-mount .wrapperAudio_f316dd {
-    background: var(--backgroundColor01) !important;
+    background: var(--bgColor1) !important;
     border: none !important
 }
 
 #app-mount .selected-3H3-RC {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .embedFull_ad0b71 {
-    background: var(--backgroundColor01) !important
+    background: var(--bgColor1) !important
 }
 
 #app-mount .anchor-1MIwyf,
@@ -409,7 +409,7 @@
 #app-mount .mediaBarWrapper_f7877e,
 #app-mount .mediaBarWrapper_f7877e:after,
 #app-mount .mediaBarWrapper_f7877e:before {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .mediaBarGrabber_f7877e,
@@ -426,11 +426,11 @@
 
 #app-mount .side_a0 .themed-2-lozF.item_a0:hover:not(.disabled-1nofHP),
 #app-mount .topPill-3DJJNV .themed-2-lozF.item_a0:hover:not(.disabled-1nofHP) {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .actionButton_e01b91 {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .peopleListItem_d51464 {
@@ -439,12 +439,12 @@
 
 #app-mount .peopleListItem_d51464.active_d51464,
 #app-mount .peopleListItem_d51464:hover {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .peopleListItem_d51464.active_d51464 .actionButton_e01b91,
 #app-mount .peopleListItem_d51464:hover .actionButton_e01b91 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .akaBadge__27cd4 {
@@ -453,7 +453,7 @@
 }
 
 #app-mount .container_bf550a {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .container_bf550a .scroller_bf550a {
@@ -467,7 +467,7 @@
 
 #app-mount .emptyCard_f02fcf,
 #app-mount .wrapper_cd82a7 {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     border: none !important
 }
 
@@ -475,25 +475,25 @@
 #app-mount .emptyCard_f02fcf .section_cd82a7,
 #app-mount .wrapper_cd82a7 .inset_c0f6a6,
 #app-mount .wrapper_cd82a7 .section_cd82a7 {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     box-shadow: 0 4px 5px -2px rgba(0, 0, 0, .3)
 }
 
 #app-mount .detailsBlock_a206c7 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .feature-2IUcBI {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .pageWrapper_a3a4ce {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .card_eb1ca6,
 #app-mount .iconMask_eb1ca6 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .search-25t1e9 .searchBox__56feb .input-2g-os5 {
@@ -502,7 +502,7 @@
 }
 
 #app-mount .childWrapper_f90abb {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .presets_df4d02>.appIconSelectionContainer_e2863f:first-child img,
@@ -527,7 +527,7 @@
 
 
 #app-mount .presets_df4d02>.appIconSelectionContainer_e2863f:first-child {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     box-shadow: 0 0 2px var(--interactive-normal);
     border-radius: 50%;
 }
@@ -543,12 +543,12 @@
 }
 
 #app-mount .expandedFolderBackground_bc7085 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .circleIconButton_db6521 {
     color: var(--mainColor) !important;
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .actionIcon_f6f816,
@@ -629,7 +629,7 @@
 
 #app-mount .members_cbd271,
 #app-mount .members_cbd271>div {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .clickable_e9f61e.container_e9f61e .activity_a31c43 {
@@ -642,7 +642,7 @@
 
 #app-mount .clickable_e9f61e.container_e9f61e:hover .layout_e9f61e,
 #app-mount .selected_e9f61e .layout_e9f61e {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .selected_e9f61e .activity_a31c43 {
@@ -691,7 +691,7 @@
 #app-mount .jumpButton_ac3dc2,
 #app-mount .jumpButton_ac90a2,
 #app-mount .messagesPopoutWrap_ac90a2 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .messagesPopout_ac90a2 {
@@ -705,7 +705,7 @@
 #app-mount .messages_c06487,
 #app-mount .tertiary_ad6d80,
 #app-mount .tutorial_f1c3d9 {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
     -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
     -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
@@ -766,7 +766,7 @@
 
 #app-mount .colorDefault-CDqZdO:active:not(.hideInteraction-2jPGL_),
 #app-mount .menu_d90b3d {
-    background-color: var(--backgroundColor01)
+    background-color: var(--bgColor1)
 }
 
 #app-mount .colorDefault-CDqZdO.focused-3qFvc8 {
@@ -809,42 +809,42 @@
 
 #app-mount .clickable_fd6364 .header_fd6364:hover,
 #app-mount .selected_fd6364 .header_fd6364 {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .bf-toolbar::before {
-    background: var(--backgroundColor01) !important
+    background: var(--bgColor1) !important
 }
 
 #app-mount .bf-toolbar .format:hover {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .autocomplete-3l_oCd {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .autocomplete-3l_oCd .selected-3H3-RC {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .contentWrapper_af5dbb {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .contentWrapper_af5dbb .inspector_c3120f,
 #app-mount .contentWrapper_af5dbb .wrapper_e06857 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .contentWrapper_af5dbb .container_effbe2,
 #app-mount .contentWrapper_af5dbb .emojiItem_fbfedd.emojiItemSelected_fbfedd,
 #app-mount .contentWrapper_af5dbb .navButtonActive_af5dbb {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .contentWrapper_af5dbb .wrapper_dc0b29 {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .3)
 }
 
@@ -858,16 +858,16 @@
 }
 
 #app-mount .bar_f60904 {
-    background-color: var(--backgroundColor02)
+    background-color: var(--bgColor2)
 }
 
 #app-mount .noiseCancellationPopout_adcaac {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .notches_e5cdf3.black_e5cdf3,
 #app-mount .notches_e5cdf3.gray_e5cdf3 {
-    background-image: linear-gradient(to left, var(--backgroundColor02), var(--backgroundColor02));
+    background-image: linear-gradient(to left, var(--bgColor2), var(--bgColor2));
     -webkit-mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%2336393f'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E");
     mask-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='20' fill='%2336393f'%3E%3Cpath fill-rule='evenodd' d='M0 0h8v20H0V0zm4 2a2 2 0 00-2 2v12a2 2 0 104 0V4a2 2 0 00-2-2z'/%3E%3C/svg%3E")
 }
@@ -878,7 +878,7 @@
 #app-mount .guildSection_e58351,
 #app-mount .progress_e5cdf3,
 #app-mount .tag_effbe2 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .quickswitcher_f4e139,
@@ -889,7 +889,7 @@
 
 #app-mount .input_f4e139,
 #app-mount .quickSelectPopoutOption_b852b1:hover {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
     color: #fff
 }
 
@@ -897,11 +897,11 @@
 #app-mount .quickSelectPopout__56a98,
 #app-mount .resultFocused-3aIoYe,
 #app-mount .root_cbf230 {
-    background-color: var(--backgroundColor01)
+    background-color: var(--bgColor1)
 }
 
 #app-mount .root_f9a4c9 {
-    background: var(--backgroundColor02);
+    background: var(--bgColor2);
     box-shadow: none !important
 }
 
@@ -920,13 +920,13 @@
 }
 
 #app-mount .root_f9a4c9 .footer-31IekZ {
-    background: var(--backgroundColor02) !important;
+    background: var(--bgColor2) !important;
     box-shadow: none !important
 }
 
 #app-mount .root_f9a4c9 .container-x8Y1ix {
     border: none !important;
-    background-color: var(--backgroundColor01)
+    background-color: var(--bgColor1)
 }
 
 #app-mount .root_f9a4c9 .container-x8Y1ix .colorStandard-21JIj7 {
@@ -938,7 +938,7 @@
 }
 
 #app-mount .input-2g-os5 {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     color: #fff !important;
     border-color: transparent !important
 }
@@ -958,11 +958,11 @@
 }
 
 #app-mount .uploadModal_f82cc7 {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .footer_f82cc7 {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .3)
 }
 
@@ -980,11 +980,11 @@
 }
 
 .bd-modal-wrapper .bd-modal-inner {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 .bd-toast {
-    background: var(--backgroundColor01);
+    background: var(--bgColor1);
     border: none !important
 }
 
@@ -995,7 +995,7 @@
 }
 
 #app-mount .reaction_f61c73 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .reaction_f61c73.reactionMe_f61c73 {
@@ -1005,23 +1005,23 @@
 
 #app-mount .root_f9a4c9 .reactionSelected_f2bfbb,
 #app-mount .root_f9a4c9 .reactors_f2bfbb {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .root_f9a4c9 .scroller_f2bfbb {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .emojiPicker_c6ee36,
 #app-mount .inspector_c3120f,
 #app-mount .wrapper_e06857 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .container_effbe2,
 #app-mount .emojiItem_fbfedd.emojiItemSelected_fbfedd,
 #app-mount .wrapper_dc0b29 {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .categoryItemDefaultCategorySelected_dfa278,
@@ -1128,7 +1128,7 @@
 #app-mount .scroller::-webkit-scrollbar-thumb,
 #app-mount .scrollerBase-_bVAAt::-webkit-scrollbar-thumb,
 #app-mount .templatesList-uohY49::-webkit-scrollbar-thumb {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     border-radius: 0;
     border-radius: 50px;
     border: none
@@ -1150,7 +1150,7 @@
 #app-mount .scroller::-webkit-scrollbar-thumb:hover,
 #app-mount .scrollerBase-_bVAAt::-webkit-scrollbar-thumb:hover,
 #app-mount .templatesList-uohY49::-webkit-scrollbar-thumb:hover {
-    background-color: var(--backgroundColor01)
+    background-color: var(--bgColor1)
 }
 
 #app-mount .autocompleteScroller-13i2_Y::-webkit-scrollbar-thumb:active,
@@ -1169,7 +1169,7 @@
 #app-mount .scroller::-webkit-scrollbar-thumb:active,
 #app-mount .scrollerBase-_bVAAt::-webkit-scrollbar-thumb:active,
 #app-mount .templatesList-uohY49::-webkit-scrollbar-thumb:active {
-    background-color: var(--backgroundColor01)
+    background-color: var(--bgColor1)
 }
 
 #app-mount .autocompleteScroller-13i2_Y::-webkit-scrollbar-button,
@@ -1247,7 +1247,7 @@
 
 #app-mount .wrapper_b211c6,
 #app-mount .wrapper-22ayhK {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .attachment_b211c6,
@@ -1257,7 +1257,7 @@
 }
 
 .container_eedf95 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 .option-2KkUJO:after {
@@ -1268,40 +1268,40 @@
 .option-2KkUJO.selected-rZcOL-,
 .searchAnswer_b0fa94,
 .searchFilter_b0fa94 {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 .button_ddc613,
 .channelName-3w2Y3c,
 .searchHeader_b7c924,
 .searchResultsWrap_c2b47d {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 .searchResult_ddc613,
 .tab_e864e6.selected-2LAck8 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .avatarUploaderInner-Oiob_P {
-    border-color: var(--backgroundColor01) !important
+    border-color: var(--bgColor1) !important
 }
 
 #app-mount .profileBannerPreview-3_l0Wd {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .accountProfileCard_b69b77 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .accountProfileCard_b69b77 .fieldList_b69b77 {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     padding: 15px
 }
 
 #app-mount .accountProfileCard_b69b77 .avatar_b69b77 {
-    border-color: var(--backgroundColor01) !important
+    border-color: var(--bgColor1) !important
 }
 
 #app-mount .accountList-305sx3,
@@ -1313,7 +1313,7 @@
 #app-mount .pageActions_cb56ee,
 #app-mount .paymentPane_f66684,
 #app-mount .userSettingsVoice-1_dzjw .previewOverlay-2reuWf {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     border: none !important
 }
 
@@ -1324,7 +1324,7 @@
 #app-mount .phoneField_d4eb58 .inputField_d4eb58,
 #app-mount .popoutList-10IFAa,
 #app-mount .previewMessage-2uxBrA {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .bottomDivider_f66684,
@@ -1336,18 +1336,18 @@
 #app-mount .connectionHeader-2rV1ze,
 #app-mount .expandedInfo_a28a08,
 #app-mount .integration-1f5IUi {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     box-shadow: inset 0 0 0 10000px rgba(0, 0, 0, .3)
 }
 
 #app-mount .fieldList_b69b77 {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     box-shadow: 0 4px 5px -2px rgba(0, 0, 0, .3)
 }
 
 #app-mount .popoutListInput-1w4TxY .inner__999f6 {
     border-radius: 4px;
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     padding: 4px
 }
 
@@ -1356,7 +1356,7 @@
 }
 
 #app-mount .selectableItem__5e076:hover {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .side_a0 .themed-2-lozF.selected-g-kMVV.item_a0:hover {
@@ -1379,11 +1379,11 @@
 }
 
 #app-mount .option_d2da9c {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .disabled_d2da9c {
-    color: var(--backgroundColor01) !important
+    color: var(--bgColor1) !important
 }
 
 #app-mount .disabled_d2da9c:hover {
@@ -1391,7 +1391,7 @@
 }
 
 #app-mount .radioBar-3w9XY- {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .radioBar-3w9XY- svg path {
@@ -1435,7 +1435,7 @@
 }
 
 #app-mount .container-2nx-BQ[style*="rgb(114, 118, 125)"] {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     box-shadow: inset 0 0 0 100px rgba(255, 255, 255, .05)
 }
 
@@ -1444,7 +1444,7 @@
 }
 
 #app-mount .bd-switch .bd-switch-body {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     box-shadow: inset 0 0 0 100px rgba(255, 255, 255, .05)
 }
 
@@ -1454,7 +1454,7 @@
 }
 
 #app-mount .slider-1NC-Gf .bar-1Bhnl9 {
-    background: var(--backgroundColor01);
+    background: var(--bgColor1);
     box-shadow: inset 0 0 0 100px rgba(255, 255, 255, .01)
 }
 
@@ -1473,7 +1473,7 @@
 #app-mount .lookFilled-1GseHa.select-1Ia3hD,
 #app-mount .popout-1KHNAq {
     border: none !important;
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .addGamePopout-3yePJc,
@@ -1481,7 +1481,7 @@
 #app-mount .option-2eIyOn:focus,
 #app-mount .option-2eIyOn:hover,
 #app-mount .option-2eIyOn[aria-selected=true] {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .addGamePopout-3yePJc .select_fb76b2,
@@ -1497,7 +1497,7 @@
 #app-mount .option-2eIyOn:focus .css-3vaxre-menu,
 #app-mount .option-2eIyOn:hover .css-3vaxre-menu,
 #app-mount .option-2eIyOn[aria-selected=true] .css-3vaxre-menu {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     border: none !important
 }
 
@@ -1506,18 +1506,18 @@
 #app-mount .option-2eIyOn:focus .css-3vaxre-menu .css-rzbxvl-option,
 #app-mount .option-2eIyOn:hover .css-3vaxre-menu .css-rzbxvl-option,
 #app-mount .option-2eIyOn[aria-selected=true] .css-3vaxre-menu .css-rzbxvl-option {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     box-shadow: inset 0 0 0 100px rgba(0, 0, 0, .15)
 }
 
 #app-mount .css-3vaxre-menu {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     border: 1px solid rgba(0, 0, 0, .5) !important;
     border-top: none !important
 }
 
 #app-mount .css-1ba14n5-option {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     box-shadow: inset 0 0 0 100px rgba(0, 0, 0, .15)
 }
 
@@ -1526,17 +1526,17 @@
 }
 
 #app-mount .bd-select .bd-select-options {
-    background: var(--backgroundColor01) !important;
+    background: var(--bgColor1) !important;
     box-shadow: none !important
 }
 
 #app-mount .bd-select .bd-select-option.selected {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     box-shadow: inset 0 0 0 100px rgba(0, 0, 0, .15) !important
 }
 
 #app-mount .wrapper_b06619 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .game-3x3aDt {
@@ -1544,22 +1544,22 @@
 }
 
 #app-mount .default_a467ac {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     box-shadow: inset 0 0 0 100px rgba(0, 0, 0, .3);
     border: none !important
 }
 
 #app-mount .card_ffe375:before {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     border: none !important
 }
 
 #app-mount .bd-addon-list .bd-addon-card {
-    background: var(--backgroundColor01) !important
+    background: var(--bgColor1) !important
 }
 
 #app-mount .bd-addon-list .bd-addon-header {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     box-shadow: inset 0 0 0 100px rgba(0, 0, 0, .3)
 }
 
@@ -1583,7 +1583,7 @@
 #app-mount .tierInProgress_a4fd01,
 #app-mount .upsellContainer-L9xv7w,
 #app-mount .upsellFooter-ZYsio_ {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .focused-qp-W9B,
@@ -1593,11 +1593,11 @@
 #app-mount .selected-22ukbQ,
 #app-mount .titleContainer_e87574,
 #app-mount .welcomeChannel_dcd39d {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .settingsFormFieldWrapper-U99c9i {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     border: none !important
 }
 
@@ -1607,7 +1607,7 @@
 
 #app-mount .headerClickable_eebd33,
 #app-mount .headerDefault-1wrJcN {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     border: none !important
 }
 
@@ -1621,7 +1621,7 @@
 #app-mount .icon_cc7b67,
 #app-mount .primary_a41c2a:hover:not(.disabled__4d064),
 #app-mount .secondary__45d4f {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .featureIcon-3p1TC_ svg,
@@ -1658,7 +1658,7 @@
 }
 
 #app-mount .item_e3c4bb {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .item_e3c4bb.deny_e3c4bb.selected_e3c4bb {
@@ -1675,7 +1675,7 @@
 }
 
 #app-mount .cardWrapper-CyvwQv {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .checklistHeader-3liG7E,
@@ -1684,7 +1684,7 @@
 #app-mount .gemIndicatorContainer_b03ca0,
 #app-mount .header-2Y0-A-,
 #app-mount .tierHeaderLocked-1a2opw {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     box-shadow: inset 0 0 0 100px rgba(0, 0, 0, .3)
 }
 
@@ -1694,7 +1694,7 @@
 
 #app-mount .background_a4fd01,
 #app-mount .gemWithoutLabel__6225b {
-    color: var(--backgroundColor01) !important
+    color: var(--bgColor1) !important
 }
 
 #app-mount .premiumIndicator_ede133 {
@@ -1702,11 +1702,11 @@
 }
 
 .container_e664f3 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 .container_e664f3 .container_acb8b3 {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     border: none !important
 }
 
@@ -1746,11 +1746,11 @@
 }
 
 #app-mount .avatar-3QF_VA {
-    border-color: var(--backgroundColor02) !important
+    border-color: var(--bgColor2) !important
 }
 
 #app-mount .topSection-13QKHs {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     box-shadow: 0 2px 15px rgba(0, 0, 0, .4);
     position: relative;
     z-index: 200
@@ -1768,7 +1768,7 @@
 }
 
 #app-mount .body-1Ukv50 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .infoScroller-1QMpon {
@@ -1784,7 +1784,7 @@
 }
 
 #app-mount .userInfoSection-2u2hir .note-3M15gE textarea {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     border-radius: 4px
 }
 
@@ -1806,14 +1806,14 @@
 }
 
 #app-mount .listScroller_e4be58 .listRow_e4be58:hover {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     border-radius: 6px
 }
 
 #app-mount .activity-1gTu-L {
     overflow: hidden;
     position: relative;
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     padding: 16px;
     margin-bottom: 16px
 }
@@ -1864,12 +1864,12 @@
 }
 
 #app-mount .avatar-2Vndt_ {
-    background-color: var(--backgroundColor01) !important;
-    border-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important;
+    border-color: var(--bgColor1) !important
 }
 
 #app-mount .headerTop-2cWpdB {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     border: none !important
 }
 
@@ -1893,7 +1893,7 @@
 }
 
 #app-mount .activity-fViXj7 .timeBarUserPopout_d5089b .bar_aa267a {
-    background-color: var(--backgroundColor01)
+    background-color: var(--bgColor1)
 }
 
 #app-mount .customStatus-3XAoF9 {
@@ -1901,7 +1901,7 @@
 }
 
 #app-mount .userPopout-2j1gM4 {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
     -ms-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
     -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
@@ -1912,12 +1912,12 @@
 #app-mount .bodyInnerWrapper-2bQs1k,
 #app-mount .footer-3naVBw,
 #app-mount .userPopout-2j1gM4 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--bgColor1) !important
 }
 
 #app-mount .avatar-22FtUu {
-    border: 6px solid var(--backgroundColor01);
-    background-color: var(--backgroundColor02)
+    border: 6px solid var(--bgColor1);
+    background-color: var(--bgColor2)
 }
 
 #app-mount .footer-1fjuF6 input {
@@ -1926,12 +1926,12 @@
 }
 
 #app-mount .footer-1fjuF6 input:hover {
-    border-color: var(--backgroundColor02)
+    border-color: var(--bgColor2)
 }
 
 #app-mount .footer-1fjuF6 input:focus,
 #app-mount .footer-1fjuF6 input:focus:hover {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     border-color: var(--mainColor)
 }
 
@@ -1949,12 +1949,12 @@
 }
 
 #app-mount .note-Go5ZP2 textarea:hover {
-    border-color: var(--backgroundColor02)
+    border-color: var(--bgColor2)
 }
 
 #app-mount .note-Go5ZP2 textarea:focus,
 #app-mount .note-Go5ZP2 textarea:focus:hover {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     border-color: var(--mainColor)
 }
 
@@ -1973,7 +1973,7 @@
 }
 
 #app-mount .container-2O1UgZ {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3), 0 0 10px 0 rgba(0, 0, 0, .5);
     -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3), 0 0 10px 0 rgba(0, 0, 0, .5);
     -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3), 0 0 10px 0 rgba(0, 0, 0, .5);
@@ -1983,18 +1983,18 @@
 }
 
 #app-mount .container-2O1UgZ .inner__999f6 {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
     border: 1px solid rgba(0, 0, 0, .2)
 }
 
 #app-mount .container-2O1UgZ .focused-qp-W9B,
 #app-mount .container-2O1UgZ .item-1BCeuB:hover {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .tabBarContainer_da7453 {
     border: none !important;
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--bgColor2) !important
 }
 
 #app-mount .tabBarContainer_da7453 .tabBarItem-1b8RUP {
@@ -2016,16 +2016,16 @@
 }
 
 #app-mount .connectedAccount-1xKpli {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
     border: none !important
 }
 
 #app-mount .listRow-hutiT_:hover {
-    background-color: var(--backgroundColor02)
+    background-color: var(--bgColor2)
 }
 
 #app-mount .topSectionNormal-2-vo2m {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
     -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
     -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
     -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
@@ -2079,16 +2079,16 @@
 }
 
 .interactiveSelected_c91bad {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .interactive-1vLZ_I:focus-within,
 .interactive-1vLZ_I:hover {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .scroller_a39aa3 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .contentColumnWide_c25c6d {
@@ -2096,35 +2096,35 @@
 }
 
 .chat_f57fdc {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .theme-dark .perksModal-CLcR1c {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .ctaBar-Nhk8yY {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .theme-dark .tierHeaderLocked-3ItHYn {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .theme-dark .tierBody-3ju-rc {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .theme-dark .perk-19D_HN {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .userProfileInnerThemedNonPremium-1gT-zY {
-    background: var(--backgroundColor01);
+    background: var(--bgColor1);
 }
 
 .overlayBackground-1KgwVi {
-    background: var(--backgroundColor02);
+    background: var(--bgColor2);
 }
 
 .userProfileInnerThemedWithBanner_c69a7b {
@@ -2132,7 +2132,7 @@
 }
 
 .userProfileInnerThemedPremiumWithoutBanner-1yMS1H {
-    background: var(--backgroundColor01);
+    background: var(--bgColor1);
 }
 
 .section-3FmfOT {
@@ -2148,40 +2148,40 @@
 }
 
 .theme-dark .container-3wLKDe {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .mainCard_a6d69a {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .sidebarCard-1Gn1ch {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .pill_c993da {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .theme-dark .container-2qVG6q.isOpen-2OXbFs {
-    background-color: var(--backgroundColor02);
-    border: 3px solid var(--backgroundColor01);
+    background-color: var(--bgColor2);
+    border: 3px solid var(--bgColor1);
 }
 
 .container-2qVG6q:hover {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .container_d1c246 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .iconWrapper_e378b3 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .container_b385c8 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     border: none;
 }
 
@@ -2191,47 +2191,47 @@
 
 .addReactButton_b385c8,
 .buttonInner_b385c8 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .theme-dark .headerClickable_eebd33,
 .theme-dark .headerDefault_eebd33 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .connectionOptionsWrapper_e2a436 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .xboxUpsellWrapper-3nr36v {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .valueProp-3RkB9k,
 .valuePropIconContainer-334reN {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .container-2nXUah {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .container-2nXUah {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .theme-dark .tierBody_da77bd {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .theme-dark .subscribersPopoutUser_da77bd,
 .theme-dark .tierHeaderLocked_da77bd {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .theme-dark .tierHeaderLocked_da77bd,
 .theme-dark .tierHeaderUnlocked_da77bd {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .overlayBackground-1KgwVi,
@@ -2241,11 +2241,11 @@
 }
 
 .userProfileInnerThemedPremiumWithoutBanner_c69a7b {
-    background: var(--backgroundColor01) !important;
+    background: var(--bgColor1) !important;
 }
 
 .userProfileInnerThemedNonPremium_c69a7b {
-    background: var(--backgroundColor01);
+    background: var(--bgColor1);
 }
 
 .profileBadges_f89da9 {
@@ -2290,7 +2290,7 @@
 }
 
 .buttonColor-XIRMbp {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     border-radius: 0px;
 }
 
@@ -2325,44 +2325,44 @@
 }
 
 .container_b95f0d {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .container__23c08 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .friendRequestsButton_c0c071 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .lookFilled_dd4f85.colorPrimary_dd4f85 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .lookFilled_dd4f85.colorPrimary_dd4f85:hover {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .lookOutlined_dd4f85.colorRed_dd4f85 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .lookFilled_dd4f85.colorBrand_dd4f85 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .radioBar_eb92a8 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .formNotice_aae945 {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
 }
 
 .theme-dark .bar_c7a159,
 .theme-dark .markDash_c7a159 {
-    background: var(--backgroundColor01)
+    background: var(--bgColor1)
 }
 
 .barFill_c7a159 {
@@ -2370,114 +2370,114 @@
 }
 
 .lookFilled_f6639d.select_f6639d {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .option_f6639d {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .option_f6639d[aria-selected=true]:not(.option_f6639d.multi_f6639d) {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .option_f6639d:hover {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .previewMessage_c31d36 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .interactive_f5eb4b:focus-within,
 .interactive_f5eb4b:hover {
-    background-color: var(--backgroundColor01) !important;
+    background-color: var(--bgColor1) !important;
 }
 
 .interactiveSelected_c91bad {
-    background: var(--backgroundColor01) !important;
+    background: var(--bgColor1) !important;
 }
 
 .radioBar_eb92a8.radioPositionLeft_eb92a8:hover {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .connectContainer_e2a436,
 .connectionHeader_e2a436 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .accountButtonInner_e2a436 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .metadataContainer_e2a436 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     margin: 0px;
 }
 
 .card-16VQ8C {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .channelRow_f04d06:not(.disabled_f04d06) {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .container_b55df8,
 .nuxContent_b55df8 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .channelRow_f04d06:hover:not(.disabled_f04d06) {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .tabBar_f1fd9c {
-    background-color: var(--backgroundColor02);
-    border-bottom: var(--backgroundColor01);
+    background-color: var(--bgColor2);
+    border-bottom: var(--bgColor1);
 }
 
 .theme-dark .container_f1fd9c,
 .theme-dark .header_f1fd9c {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .profileCard_c6b11b {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .prompt_c6b11b {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .optionButtonWrapper_bd5e1f:hover {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .optionButtonWrapper_bd5e1f {
-    border-color: var(--backgroundColor02) !important;
+    border-color: var(--bgColor2) !important;
 }
 
 .optionButtonWrapper_bd5e1f.selected_bd5e1f {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .card-8UsK4b {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     border-color: var(--gradientColor01);
 }
 
 .card-8UsK4b:hover {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .header-1sd0RU {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .contentContainer-BWAau5 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .botText_a02df3 {
@@ -2485,112 +2485,112 @@
 }
 
 .editCard_cd99d3 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .mentionLimitContainer_fa2661 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .actionContainer_b6e944 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .triggerSettingsContainer_df95ff {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .stepperContainer_fa2661 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .editCard_cd99d3.toggled_cd99d3.active_ef2ec5 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .mainContainer_ea28e2,
 .ruleIconContainer_ea28e2 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .wrapper_d864ab {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .roleRow_a930f1:hover:not(.roleRowDisableHover_a930f1) {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .backgroundContainer_ceff93 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .fieldBackground_ceff93 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .containerFooter_ceff93 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .fieldFooterContainer_ceff93 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .backgroundModifierContainer_e5c5d5 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .upsellContent_d0de76 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .upsellFooter_d0de76 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .checklistItem_bd2368 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .header_bd2368 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .previewContainer_dcd39d {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .enableContainer_a1879c {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .descriptionBox_c38f8d {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .analyticsCard_d4b8cc {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .developerPortalCtaWrapper_cfaf72 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .welcomeChannel_dcd39d {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .theme-dark .directoryModal-YJsOMv {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .card_e90143 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .textContainer_d9c848 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .activity-E0U09Y:before {
@@ -2598,69 +2598,69 @@
 }
 
 .theme-dark .message_ddcc45 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 /* Server Boost */
 .guild__74638 {
-    border: 1px solid var(--backgroundColor01);
+    border: 1px solid var(--bgColor1);
 }
 
 .guildHeader__30707 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .guildSubscriptionSlots__5823d {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .guildSubscriptionSlot_b76fc6 {
-    border-bottom: 1px solid var(--backgroundColor01);
+    border-bottom: 1px solid var(--bgColor1);
 }
 
 /* Search */
 .searchBar_a46bef {
-    background: var(--backgroundColor01);
+    background: var(--bgColor1);
 }
 
 .theme-dark .rootWithShadow_f9a4c9 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .theme-dark .footerSeparator_f9a4c9 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .theme-dark .calendarPicker__47c85 .react-datepicker {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .theme-dark .calendarPicker__47c85 .react-datepicker__day {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .theme-dark .calendarPicker__47c85 .react-datepicker__day--disabled,
 .theme-dark .calendarPicker__47c85 .react-datepicker__day--outside-month,
 .theme-dark .calendarPicker__47c85 .react-datepicker__day.react-datepicker__day--disabled,
 .theme-dark .calendarPicker__47c85 .react-datepicker__day.react-datepicker__day--disabled:hover {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .theme-dark .calendarPicker__47c85 .react-datepicker__header {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .panelBanner-13bsBR {
-    border-left: 3px solid var(--backgroundColor01);
+    border-left: 3px solid var(--bgColor1);
 }
 
 .welcomeCTAButton_f6dde0 {
-    border: 3px solid var(--backgroundColor01);
+    border: 3px solid var(--bgColor1);
     border-radius: 10px;
 }
 
 .container_fe1358 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .theme-dark .panel_bf1a22 {
@@ -2669,7 +2669,7 @@
 }
 
 .container_f2bfbb .reactors_f2bfbb {
-    background: var(--backgroundColor01);
+    background: var(--bgColor1);
 }
 
 .scroller_f2bfbb {
@@ -2678,7 +2678,7 @@
 }
 
 .reactionSelected_f2bfbb {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .overlayBackground-1KgwVi,
@@ -2688,36 +2688,36 @@
 }
 
 .matchingPostsRow_a6d69a {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .testimonialHeroContainer_d3081b {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .upsellPreview_aa7c25 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .previewListItem_aa7c25.selected_aa7c25 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
     border: 2px solid var(--mainColor);
 }
 
 .previewListItem_aa7c25 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .reaction_f61c73 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .footer_cf5d0a {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .body_cf5d0a.hasSplash_cf5d0a {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .description_cf5d0a {
@@ -2733,15 +2733,15 @@
 }
 
 .nav__2aafa {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .contentWrapper_eab878 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .navButtonActive_b003de {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .controlIcon_ef18ee {
@@ -2762,7 +2762,7 @@
 }
 
 .sidebar_a4d4d9 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .active_b385c8 {
@@ -2836,34 +2836,34 @@
 }
 
 .upload_df1eaf {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .theme-dark .container_d20375,
 .theme-dark .page_d20375 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
     border-color: var(--mainColor);
 }
 
 .table_aabef9 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     border-color: var(--mainColor);
 }
 
 .searchHeader_b0740c,
 .searchHeaderContainer_b0740c {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     border-color: var(--mainColor);
 }
 
 .paginationContainer_cb152b {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
     border-color: var(--mainColor);
 }
 
 .button_a39fe9 {
     color: #fff;
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .text-md-normal__6a4eb {
@@ -2872,7 +2872,7 @@
 
 .button_a39fe9:hover {
     background-color: var(--mainColor);
-    color: var(--backgroundColor02);
+    color: var(--bgColor2);
 }
 
 .container__33507 {
@@ -2886,7 +2886,7 @@
 }
 
 .memberRowContainer_a39fe9:hover td {
-    background-color: var(--backgroundColor02) !important;
+    background-color: var(--bgColor2) !important;
 }
 
 .mainTableContainer_e23072,
@@ -2895,23 +2895,23 @@
 }
 
 .container_d331f1:hover {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .container-3arpDl {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .descriptionContainer-2ylKGk {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .linkContainer-2xEQjX {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .gradient-1SYq38 {
-    background: var(--backgroundColor01);
+    background: var(--bgColor1);
 }
 
 .members_cbd271,
@@ -2961,42 +2961,42 @@
 }
 
 .theme-dark .container_d331f1.isOpen_d331f1 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .chatContent_a7d72e {
-    background: var(--backgroundColor02);
+    background: var(--bgColor2);
 }
 
 .resizeHandle_d1c246 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .auto_eed6a8::-webkit-scrollbar-track {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .auto_eed6a8::-webkit-scrollbar-thumb {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .userProfileInnerThemedNonPremium_c69a7b .overlayBackground_c69a7b {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .theme-dark .tooltipPrimary_b6c360,
 .theme-light .tooltipPrimary_b6c360 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .topPill_a0 .themed_a0.selected_a0.item_a0,
 .side_a0 .themed_a0.selected_a0.item_a0 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .topPill_a0 .themed_a0.item_a0:hover:not(.disabled_a0),
 .side_a0 .themed_a0.item_a0:hover:not(.disabled_a0) {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .container_cc72c1 {
@@ -3004,7 +3004,7 @@
 }
 
 .container_a6d69a {
-    background: var(--backgroundColor02);
+    background: var(--bgColor2);
 }
 
 .carouselModal_d2b9a1 {
@@ -3016,7 +3016,7 @@
 }
 
 .box_af45f8 {
-    background: var(--backgroundColor01);
+    background: var(--bgColor1);
 }
 
 .wrapper_cdfd51 {
@@ -3036,7 +3036,7 @@
 }
 
 .base_d7ebeb {
-    background: var(--backgroundColor02) !important;
+    background: var(--bgColor2) !important;
 }
 
 .codeActions_d6076c {
@@ -3061,15 +3061,15 @@
 }
 
 .container_ddbb27 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .descriptionContainer_ddbb27 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .linkContainer_ddbb27 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .gradient_ddbb27 {
@@ -3077,11 +3077,11 @@
 }
 
 .container_e88961 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .body_adbea6 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 
@@ -3159,38 +3159,38 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 }
 
 .container_a1531c {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .scroller_cbdbf0 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .container__6e389,
 .voters_cbdbf0 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .badge_b37eda {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .header_c6ee36 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .categoryList_c6ee36 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .soundInfo_f40049,
 .soundButton_f40049 {
-    background: var(--backgroundColor01);
+    background: var(--bgColor1);
 }
 
 .soundAddButton_c06ee5:hover,
 .soundAddButton_c06ee5.focused_c06ee5 {
-    background: var(--backgroundColor02);
+    background: var(--bgColor2);
 }
 
 .iconWrapper_e44302 path {
@@ -3198,7 +3198,7 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 }
 
 .wrapper_ba23fe {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .settingsIcon_ca5acd {
@@ -3228,19 +3228,19 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 }
 
 .modalHeader_cd3d24 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .scroller_f09e45 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .footer_cd3d24 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .activityTextContainer_d46b95 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .standardStickerShortcut_a7a485 {
@@ -3256,55 +3256,55 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 }
 
 .section_cd82a7 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .container_a039eb {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .stepContainer_a039eb {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .container_a03b48 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .sortDropdown_a6d69a {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .preview_d66623 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .container_d66623 {
-    background-color: var(--backgroundColor02);
+    background-color: var(--bgColor2);
 }
 
 .post_d66623 {
-    background-color: var(--backgroundColor01);
+    background-color: var(--bgColor1);
 }
 
 .header_b56bbc {
-	background-color: var(--backgroundColor01);
+	background-color: var(--bgColor1);
 }
 
 .inner_c18ec9 {
-	background-color: var(--backgroundColor02);
+	background-color: var(--bgColor2);
 }
 
 .secondary_e258f5 {
-	background-color: var(--backgroundColor02);
+	background-color: var(--bgColor2);
 }
 
 .container_f8a938 {
-	background-color: var(--backgroundColor01);
+	background-color: var(--bgColor1);
 }
 
 .credentialList_eaef52 {
-	background-color: var(--backgroundColor01);
+	background-color: var(--bgColor1);
 }
 
 .stickerCategoryGenericSelected_a7a485 .stickerCategoryGenericIcon_a7a485 {
@@ -3312,17 +3312,17 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 }
 
 .container_b01337 {
-	background-color: var(--backgroundColor01);
+	background-color: var(--bgColor1);
 }
 
 .container_d7c696 {
-	background-color: var(--backgroundColor01);
+	background-color: var(--bgColor1);
 }
 
 .container_a2e886 {
-	background-color: var(--backgroundColor01);
+	background-color: var(--bgColor1);
 }
 
 .box_f70f48 {
-	background-color: var(--backgroundColor01);
+	background-color: var(--bgColor1);
 }

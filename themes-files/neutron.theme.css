@@ -6,25 +6,16 @@
  * @invite PZdnCVD
  * @source https://github.com/xcruxiex/themes
  * @website https://betterdiscord.app/theme/Neutron
- *//*
-$$\   $$\ $$$$$$$$\ $$\   $$\ $$$$$$$$\ $$$$$$$\   $$$$$$\  $$\   $$\
-$$$\  $$ |$$  _____|$$ |  $$ |\__$$  __|$$  __$$\ $$  __$$\ $$$\  $$ |
-$$$$\ $$ |$$ |      $$ |  $$ |   $$ |   $$ |  $$ |$$ /  $$ |$$$$\ $$ |
-$$ $$\$$ |$$$$$\    $$ |  $$ |   $$ |   $$$$$$$  |$$ |  $$ |$$ $$\$$ |
-$$ \$$$$ |$$  __|   $$ |  $$ |   $$ |   $$  __$$< $$ |  $$ |$$ \$$$$ |
-$$ |\$$$ |$$ |      $$ |  $$ |   $$ |   $$ |  $$ |$$ |  $$ |$$ |\$$$ |
-$$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
-\__|  \__|\________| \______/    \__|   \__|  \__| \______/ \__|  \__|
-*/
-@import url("https://xcruxiex.github.io/themes/themes-cores/neutron8.css");
-@import url("https://xcruxiex.github.io/themes/core/badges.css");
-@import url("https://xcruxiex.github.io/themes/core/custom-font.css");
+ */
+
+@import url("https://xcruxiex.github.io/themes/themes-cores/neutron8.css"); /* Core Import - DO NOT REMOVE */
+@import url("https://xcruxiex.github.io/themes/core/badges.css"); /* Custom Badges */
+@import url("https://xcruxiex.github.io/themes/core/settings-icons.css"); /* Setting Icons */
+@import url("https://xcruxiex.github.io/themes/core/hljs.css"); /* Codeblocks */
+@import url("https://xcruxiex.github.io/themes/core/custom-font.css"); /* Custom Font */
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); /* Custom font import link (see fonts.google.com) */
-/*##########################################################################
 
-                 CHANGE VALUES BELOW TO CUSTOMIZE YOU THEME
-
-##########################################################################*/
 :root {
   /* COLORS */
   --themeColor1: #36D1DC; /* Theme's color 1 */
@@ -32,6 +23,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 
   /* CUSTOM FONT */
   --customFont: 'Open sans', sans-serif; /* Custom font, change the name in 'font name here', you must import the font first */
+  --font-display: var(--customFont);
 
   /* HOME BUTTON */
   --homeImage: url('https://imgur.com/eItxuAq.png');/* Home button image, must be a direct link | You can also set it to a gradient, google "css gradient"*/

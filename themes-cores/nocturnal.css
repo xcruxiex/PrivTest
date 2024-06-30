@@ -202,3 +202,103 @@
 .container_e664f3,.header_e664f3{
     background-color: var(--bgColor1);
 }
+/*inbox mentions*/
+.channelHeader_f3978e {
+    background-color: var(--bgColor2);
+}
+.messageContainer_ddb5b4 {
+    background-color: var(--bgColor1);
+}
+.tertiary_e258f5 {
+    background-color: var(--bgColor1);
+}
+/*search results*/
+.container_ddc613 {
+    background-color: var(--bgColor1);
+}
+/*edit profile in popout*/
+.lookFilled_dd4f85.colorPrimary_dd4f85 {
+    background-color: var(--bgColor2);
+}
+/*footers*/
+.footer_ac90a2 {
+    background-color: var(--bgColor2);
+}
+/*hover in emote menu*/
+.theme-dark .card_ffe375:before {
+    background-color: var(--bgColor1);
+}
+/*reply line*/
+.repliedMessage_ec86aa:before {
+    border-color: var(--mainColor);
+}
+.active_b385c8 {
+    color: var(--mainColor);
+}
+/*friends tab header*/
+.theme-dark .themed_e44302 {
+    background-color: var(--bgColor2);
+}
+/*forums*/
+.container_a6d69a {
+    background-color: var(--bgColor2);
+}
+.container_c1668f {
+    background-color: var(--bgColor1);
+}
+.mainCard_a6d69a {
+    background-color: var(--bgColor1);
+}
+.container_d331f1:active {
+    background-color: var(--bgColor2);
+}
+.defaultColor_e9e35f, .messageContent_d331f1, .text-sm\/normal_dc00ef {
+    color: #fff !important;
+}
+/*EMBED LINK STUFF*/
+[href*="youtu.be"], [href*="youtube.com"] {
+    color: #EB3B46 !important;
+    font-weight: 700
+}
+[href*="twitch.tv"] {
+    color: #ba00db !important;
+    font-weight: 700
+}
+[href*="spotify.com"] {
+    color: #09de09 !important;
+    font-weight: 700
+}
+[href*="discord.com/channels/"] {
+    color: #4c00ff !important
+}
+[href*="discord.com/channels/"]::before {
+    content: 'Jump to Message : ';
+    font-size: 16px;
+    font-weight: 700;
+    color: #603cff
+}
+[href*="reddit.com"] {
+    color: #ff6105 !important;
+    font-weight: 700
+}
+[href*="instagram.com/"] {
+    background: -webkit-linear-gradient(80deg, #fe0, #ff9d0b, #b700ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700
+}
+[href*="twitter.com/"] {
+    color: #00b7ff !important;
+    font-weight: 700
+}
+[href*="betterdiscord.app/"], [href*="discord.gg/"] {
+    color: #00fff7 !important;
+    font-weight: 700
+}
+[href*="github.com"] {
+    color: #03ffb3 !important;
+    font-weight: 700
+}
+.embedFull_ad0b71 {
+    border-color: var(--mainColor);
+}

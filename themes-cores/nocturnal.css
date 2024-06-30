@@ -302,3 +302,26 @@
 .embedFull_ad0b71 {
     border-color: var(--mainColor);
 }
+/*embeds in pinned messages*/
+.embedFull_ad0b71{
+    background-color: var(--bgColor1);
+}
+/*various backgrounds, events tab, member tab*/
+.theme-dark .container_c2efea {
+    background-color: var(--bgColor1);
+}
+.scroller_d20375 {
+    background-color: var(--bgColor2);
+}
+.content_cc6017 {
+    background-color: var(--bgColor2);
+}
+.footer_f9a4c9 {
+    background-color: var(--bgColor2);
+}
+.selected_fd6364 .header_fd6364, .clickable_fd6364 .header_fd6364:hover {
+    background-color: var(--bgColor1);
+}
+.messages_c06487{
+    background-color: var(--bgColor1);
+}

@@ -325,3 +325,31 @@
 .messages_c06487{
     background-color: var(--bgColor1);
 }
+/*Profile color stuff*/
+.theme-light .heading-lg\/bold_dc00ef {
+    color: #000 !important;
+}
+.theme-light .text-sm\/normal_dc00ef {
+    color: #000 !important;
+}
+.theme-light .nickname_c32acf.fullSize_c32acf {
+    color: #000 !important;
+}
+.theme-light .text-xs\/semibold_dc00ef {
+    color: #000 !important;
+}
+.iconItem_f6f816:hover .actionIcon_f6f816 {
+    color: var(--mainColor);
+}
+/*Polls*/
+.container_a1531c {
+    background-color: var(--bgColor1);
+    border: 2px solid var(--mainColor);
+}
+.votePercentageBar_cf2c85 {
+    background-color: var(--bgColor2);
+}
+.answerInner_cf2c85 {
+    background-color: var(--bgColor1);
+    border: 2px solid var(--mainColor);
+}

@@ -1,5 +1,5 @@
 # PrivTest
-Just for ourselves for shits n gigs
+# Just for ourselves for shits n gigs
 
 # Discord Themes
 
